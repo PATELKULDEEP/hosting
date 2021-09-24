@@ -4,8 +4,8 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <p style={{fontSize:35}}>
-          Hello Developers
+        <p style={{fontSize:35, color: "blue"}}>
+          Hello World
         </p>
         
       
@@ -15,3 +15,5 @@ function App() {
 }
 
 export default App;
+
+
